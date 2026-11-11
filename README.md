@@ -1,4 +1,4 @@
-<h1 align="center">Bernardo Simão</h1>
+<h1>Hi 👋, I'm Bernardo</h1
 
 <p align="center">
   <b>Backend Developer</b> · SAP Business One Ecosystem
