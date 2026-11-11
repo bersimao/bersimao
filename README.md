@@ -1,4 +1,6 @@
-<h1>Hi 👋, I'm Bernardo</h1
+<h1>
+  Hi <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30" alt="Waving">, I'm Bernardo
+</h1>
 
 <p align="center">
   <b>Backend Developer</b> · SAP Business One Ecosystem
